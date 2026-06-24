@@ -1,6 +1,6 @@
 <div align="center">
 
-# `THUG // spectreThug`
+# `Youssef Walied // Thug`
 ### Backend &amp; Real-Time Systems Engineer
 
 </div>
@@ -53,24 +53,6 @@ Also contributing backend work to **NoorScanner**, an AI-assisted radiology plat
 >
 > CS2 · R.E.P.O. · Steam Game Coordinator · Overwolf GEP · Socket.IO
 
----
-
-### `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=spectreThug&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff9100&icon_color=ff9100&text_color=cccccc&border_color=ff9100&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spectreThug&theme=dark&background=0d0d0d&ring=ff9100&fire=ff9100&currStreakLabel=ff9100&border=ff9100" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectreThug&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff9100&text_color=cccccc&border_color=ff9100" width="48%"/>
-
-</div>
-
----
 
 <div align="center">
 
