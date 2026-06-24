@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=180&section=header&text=Thug%20//%20spectreThug&fontSize=42&fontColor=ff9100&animation=fadeIn&fontAlignY=40&desc=Backend%20%26%20Real-Time%20Systems%20Engineer&descAlignY=60&descSize=18&descColor=cccccc" width="100%"/>
+# `THUG // spectreThug`
+### Backend &amp; Real-Time Systems Engineer
 
 </div>
 
@@ -48,13 +49,9 @@ Also contributing backend work to **NoorScanner**, an AI-assisted radiology plat
 
 ### `> flagship`
 
-<div align="center">
-
-[![Lethal Hive](https://github-readme-stats.vercel.app/api/pin/?username=spectreThug&repo=lethal-hive&theme=dark&bg_color=0d0d0d&title_color=ff9100&text_color=cccccc&border_color=ff9100&show_owner=true)](https://lethalhive.com)
-
-</div>
-
-> Windows/Electron esports platform with live game-state integrations, BepInEx mod injection, and a NestJS + Redis + NATS backend built for matchmaking at scale. → **[lethalhive.com](https://lethalhive.com)**
+> **[Lethal Hive](https://lethalhive.com)** — Windows/Electron esports platform with live game-state integrations, BepInEx mod injection, and a NestJS + Redis + NATS backend built for matchmaking at scale.
+>
+> CS2 · R.E.P.O. · Steam Game Coordinator · Overwolf GEP · Socket.IO
 
 ---
 
@@ -83,4 +80,10 @@ Also contributing backend work to **NoorScanner**, an AI-assisted radiology plat
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+`built for speed — on the wire and in the queue`
+
+</div>
